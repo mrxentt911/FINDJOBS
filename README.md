@@ -28,5 +28,5 @@ A **Tkinter-based GUI** is also included to make searching and viewing results e
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/job-search-tool.git
+git clone https://github.com/your-username/FINDJOBS.git
 cd job-search-tool
