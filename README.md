@@ -29,4 +29,4 @@ A **Tkinter-based GUI** is also included to make searching and viewing results e
 
 ```bash
 git clone https://github.com/your-username/FINDJOBS.git
-cd job-search-tool
+cd FINDJOBS
